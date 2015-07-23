@@ -1,3 +1,6 @@
 # rainbow
-custom style for phpbb 3.1.4 that is work in progress. Will be released as Rainbow Basic to the public for free.
-Enjoy.
+custom style for phpbb 3.1.5 that is work in progress.
+
+The free version will be released as Rainbow Basic. 
+see:
+https://github.com/master412160/rainbow-basic
